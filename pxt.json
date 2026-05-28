@@ -1,6 +1,6 @@
 {
     "name": "Color Fading",
-    "version": "0.2.3",
+    "version": "0.2.4",
     "description": "",
     "dependencies": {
         "device": "*",
@@ -11,7 +11,9 @@
         "color.ts",
         "fade.ts",
         "palettes.ts",
-        "effect.ts"
+        "effect.ts",
+        "hsv.ts",
+        "hsvblocks.ts"
     ],
     "testFiles": [
         "test.ts"
